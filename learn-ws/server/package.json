@@ -1,0 +1,23 @@
+{
+  "name": "learn-websockets-socket.io-",
+  "version": "1.0.0",
+  "description": "learn ws using sockets.io library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therafiali/learn-websockets-Socket.io-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therafiali/learn-websockets-Socket.io-/issues"
+  },
+  "homepage": "https://github.com/therafiali/learn-websockets-Socket.io-#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
